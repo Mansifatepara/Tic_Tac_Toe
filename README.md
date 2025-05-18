@@ -14,3 +14,22 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# Tic-Tac-Toe Flutter Game
+
+A simple Tic-Tac-Toe game built with Flutter.
+
+[Play the game here!](https://your-deployed-url.com)
+
+## Features
+- Player vs Player mode
+- Responsive design
+- Score tracking
+
+## Screenshots
+![Game Screenshot](screenshot.png)
+
+## How to Run Locally
+1. Clone this repository
+2. Run flutter pub get
+3. Run flutter run (choose your device)
