@@ -25,8 +25,7 @@ A simple Tic-Tac-Toe game built with Flutter.
 - Score tracking
 
 ## Screenshots
-![Game Screenshot](![Screenshot 2025-05-18 212922](https://github.com/user-attachments/assets/b1c38ec8-09b5-455f-93a5-01ebefcddcaa)
-)
+![Game Screenshot](Screenshot 2025-05-18 212833.png)
 
 ## How to Run Locally
 1. Clone this repository
