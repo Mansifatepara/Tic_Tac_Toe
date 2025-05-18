@@ -19,15 +19,14 @@ samples, guidance on mobile development, and a full API reference.
 
 A simple Tic-Tac-Toe game built with Flutter.
 
-[Play the game here!](https://your-deployed-url.com)
-
 ## Features
 - Player vs Player mode
 - Responsive design
 - Score tracking
 
 ## Screenshots
-![Game Screenshot](screenshot.png)
+![Game Screenshot](![Screenshot 2025-05-18 212922](https://github.com/user-attachments/assets/b1c38ec8-09b5-455f-93a5-01ebefcddcaa)
+)
 
 ## How to Run Locally
 1. Clone this repository
